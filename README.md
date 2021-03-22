@@ -5,4 +5,4 @@ This is my first go at using machine learning! The idea behind this project was 
 
 ## The Data
 
-I used [this!](https://www.kaggle.com/shubhammehta21/movie-lens-small-latest-dataset) dataset from Kaggle!
+I used [this](https://www.kaggle.com/shubhammehta21/movie-lens-small-latest-dataset) dataset from Kaggle!
