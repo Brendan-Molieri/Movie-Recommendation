@@ -16,4 +16,4 @@ I used [this](https://www.kaggle.com/shubhammehta21/movie-lens-small-latest-data
 
 ## What I used
 
-I used the KNN algorithm to compute similarity with cosine distance metric which is very fast and more preferable than pearson coefficient.
+I used the KNN algorithm to compute similarity with cosine distance metric.
