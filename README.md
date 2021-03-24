@@ -5,8 +5,7 @@ This is my first go at using machine learning! The idea behind this project was 
 
 ## Working Examples 
 Here is the movie recommendations for "Up"
-![Alt text](/Movie-Recommendation/Screen Shot 2021-03-24 at 1.41.03 PM![image](https://user-images.githubusercontent.com/69182803/112358691-f5216b80-8ca6-11eb-89c5-cd09522abdb6.png)
-.jpg?raw=true "Optional Title")
+![Alt text](https://user-images.githubusercontent.com/69182803/112358691-f5216b80-8ca6-11eb-89c5-cd09522abdb6.png)
 
 ## The Data
 
