@@ -4,8 +4,8 @@ from scipy.sparse import csr_matrix
 from sklearn.neighbors import NearestNeighbors
 import matplotlib.pyplot as plt
 import seaborn as sns
-movies = pd.read_csv("/Users/brendan/Documents/Python projects/Movie. Recommendation/archive/movies.csv")
-ratings = pd.read_csv("/Users/brendan/Documents/Python projects/Movie. Recommendation/archive/ratings.csv") 
+movies = pd.read_csv("/movies.csv")
+ratings = pd.read_csv("/ratings.csv") 
 
 
 final_dataset = ratings.pivot(index='movieId',columns='userId',values='rating')
